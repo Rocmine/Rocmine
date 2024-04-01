@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Rocmine
-- 👀 I’m interested in Gaming,Streaming,Programming
-- 🌱 I’m currently studying software engineering
+- 👀 I’m interested in programming,cloud
+- 🌱 I’m currently studying Computer Science
 - 📫 How to reach me > https://rocmine.net
+- 🎮 i love gaming/streaming
 
 - ![](https://komarev.com/ghpvc/?username=rocmine&color=121820&style=for-the-badge&label=Visitors)
 
