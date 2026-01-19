@@ -16,7 +16,7 @@
 
 ## 🎯 What I Do
 
-I'm a computer engineer from **Casablanca, Morocco** 🇲🇦 who loves making servers go brrrr and building apps that don't suck. Founder of **Safar** & **RocmineLabs** where I turn coffee into cloud infrastructure ☕️ → ☁️
+I'm a computer engineer from **Temara, Morocco** 🇲🇦 who loves making servers go brrrr and building apps that don't suck. Founder of **Safar** & **RocmineLabs** where I turn coffee into cloud infrastructure ☕️ → ☁️
 
 - 💻 Full-stack developer who can build it AND deploy it
 - 🏗️ Cloud architect obsessed with scalability and performance
