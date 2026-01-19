@@ -16,13 +16,13 @@
 
 ## 🎯 What I Do
 
-I'm a computer engineer from **Temara, Morocco** 🇲🇦 who loves making servers go brrrr and building apps that don't suck. Founder of **Safar** & **RocmineLabs** where I turn coffee into cloud infrastructure ☕️ → ☁️
+I'm a computer engineer from **Temara, Morocco** 🇲🇦 who loves making servers go brrrr and building apps that don't suck. Founder of **RocmineLabs** where I turn coffee into cloud infrastructure ☕️ → ☁️
 
 - 💻 Full-stack developer who can build it AND deploy it
 - 🏗️ Cloud architect obsessed with scalability and performance
 - 🤖 Automation enthusiast (if I do it twice, I script it)
 - 🔥 Open source contributor & tech tinkerer
-- 📍 Based in Casablanca, making magic happen remotely
+- 📍 Based in Temara, making magic happen remotely
 
 ---
 
@@ -93,8 +93,8 @@ I'm a computer engineer from **Temara, Morocco** 🇲🇦 who loves making serve
 
 ```javascript
 const rocmine = {
-    location: "Casablanca, Morocco 🇲🇦",
-    currentlyLearning: ["Rust", "WebAssembly", "Edge Computing"],
+    location: "Temara, Morocco 🇲🇦",
+    currentlyLearning: ["everything i can learn :)"],
     workingOn: [
         "Scalable microservices architecture",
         "Multi-cloud deployment strategies",
@@ -106,7 +106,6 @@ const rocmine = {
 ```
 
 ### 🚀 My Projects
-- **Safar** - Building next-gen cloud solutions
 - **RocmineLabs** - Where I break things and sometimes fix them
 - **Open Source** - Contributing to the community whenever I can
 
