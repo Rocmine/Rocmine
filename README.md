@@ -16,7 +16,7 @@
 
 ## 🎯 What I Do
 
-I'm a computer engineer from **Temara, Morocco** 🇲🇦 who loves making servers go brrrr and building apps that don't suck. Founder of **RocmineLabs** where I turn coffee into cloud infrastructure ☕️ → ☁️
+I'm a computer engineer from **Morocco** 🇲🇦 who loves making servers go brrrr and building apps that don't suck. Founder of **RocmineLabs** where I turn coffee into cloud infrastructure ☕️ → ☁️
 
 - 💻 Full-stack developer who can build it AND deploy it
 - 🏗️ Cloud architect obsessed with scalability and performance
@@ -93,7 +93,7 @@ I'm a computer engineer from **Temara, Morocco** 🇲🇦 who loves making serve
 
 ```javascript
 const rocmine = {
-    location: "Temara, Morocco 🇲🇦",
+    location: "Morocco 🇲🇦",
     currentlyLearning: ["everything i can learn :)"],
     workingOn: [
         "Scalable microservices architecture",
